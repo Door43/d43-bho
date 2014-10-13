@@ -10,6 +10,10 @@
 
   * [[bho:obs|Open Bible Stories (bho)]]
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bho|d43-bho repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bho/archive/master.zip|d43-bho.zip]]
+
 **Recent Changes**
 {{changes>ns = bho}}
 
