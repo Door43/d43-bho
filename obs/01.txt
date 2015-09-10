@@ -1,6 +1,6 @@
 ====== १.दुनिया के बनल ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?direct&}}
+[[:lib:exe:fetch.php?tok=1ada0c&media=https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?nolink&}}]]
 
 येहीगंई सब चीज के बनवनी हँई । परमेश्वर दुनिया अऊर सब चीज के छः दिन के भीतर बनवनी हँई । जब परमेश्वर धरती बनवलन तब अन्हार अऊर खाली रहे अऊर कुछ ना रहे । लेकिन परमेश्वर के आत्मा पानी के ऊपर घुमत रहे ।
 
@@ -24,11 +24,11 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-07.jpg?direct&}}
 
-On the fifth day, God spoke and made everything that swims in the water and all the birds. God saw that it was good, and he blessed them.
+पाचवा दिन परमेश्वर कहलन, जलमे तैयारे वला अऊर ऊड़े वला हो जा। परमेश्वर देखलन जे इ निमन बा, अऊर ऊ आशीवाद दे देलन।
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg?direct&}}
 
-On the sixth day of creation, God said, "Let there be all kinds of land animals!" And it happened just like God said. Some were farm animals, some crawled on the ground, and some were wild. And God saw that it was good.
+सृष्टि के छटवा दिन मे, परमेश्वर कहलन” किसीम-किसीम के जानवर बन जा,” अऊर जेगइ ऊ कहलन ओहिगइ होगइल। कुछ जानवर ओमे से घरेलु, कुछ धरती पर रेगें वाला, अऊर कुछ जगंल मे रहे वाला। अऊर परमेश्वर देखलन इ निमन बा।
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-09.jpg?direct&}}
 
@@ -40,7 +40,7 @@ On the sixth day of creation, God said, "Let there be all kinds of land animals!
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?direct&}}
 
-परमेश्वर बगीचा के बीच में विशेष दू गो गाछ लगवलन  जीवन के गाछ अऊर भलाई अऊरी बुराई के ज्ञान के गाछ । दुगो गाछ छोड़ के बाकी सब गाछ के फल खा सकतारन । यदि ओ गाछी के फल खइब तब मर जईब । तब परमेश्वर कहलन, आदम के अकेला रहल ई अच्छा नइखे । ऊ सब प्राणी में से कोई मदद्गार नइखे हो सकत ।
+परमेश्वर बगीचा के बीच में विशेष दू गो गाछ लगवलन जीवन के गाछ अऊर भलाई अऊरी बुराई के ज्ञान के गाछ । दुगो गाछ छोड़ के बाकी सब गाछ के फल खा सकतारन । यदि ओ गाछी के फल खइब तब मर जईब । तब परमेश्वर कहलन, आदम के अकेला रहल ई अच्छा नइखे । ऊ सब प्राणी में से कोई मदद्गार नइखे हो सकत ।
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg?direct&}}
 
